@@ -19,3 +19,14 @@ public class hello
 		System.out.println("Ngiyakuthanda"); //祖魯文
 	}
 }
+
+public class hello //aaron3231
+{
+	public static void main(String[] argv)
+	{
+		System.out.println("Rakastan sinua"); //芬蘭文
+		System.out.println("Volim te"); //克羅埃西亞文
+		System.out.println("Aš tave myliu"); //立陶宛文
+	}
+}
+		
