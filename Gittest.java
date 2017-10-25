@@ -1,4 +1,4 @@
-public class Gittest
+public class Gittest // write by stanly481025
 {
 	public static void main(String[] argv)
 	{
