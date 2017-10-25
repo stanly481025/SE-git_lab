@@ -8,6 +8,6 @@ public class Gittest
 		System.out.println("Je t'aime"); //法文
 		System.out.println("나는 너를 사랑해."); //韓文
 		System.out.println("Ég elska þig"); //冰島文
-		System.out.println("Rakastan sinua");
+		System.out.println("Rakastan sinua"); //芬蘭文
 	}
 }
